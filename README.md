@@ -65,4 +65,4 @@ The aim of the BOT is also to remove a given mobile number from each given file 
 24. After the operations have been finished check the files modified as output.
 
 ### NOTE
-This project was created by TEAM DDDK (Dhruv Dixit [Leader] and Dhreeti Kesharwani) as a part of offline national level hackathon Botathon 2.0 conducted at JECRC University, Jaipur sponsored by UiPath. We won 2nd prize representing our college United College of Engineering and Management, Praygraj, Uttar Pradesh among 136 teams participating from 17 states of India.
+This project was created by TEAM DDDK (Dhruv Dixit [Leader] and Dhreeti Kesharwani) as a part of offline national level hackathon Botathon 2.0 conducted at JECRC University, Jaipur sponsored by UiPath based on Robotic Process Automation. We won 2nd prize representing our college United College of Engineering and Management, Praygraj, Uttar Pradesh among 136 teams participating from 17 states of India.
